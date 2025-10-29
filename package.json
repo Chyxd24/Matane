@@ -1,1 +1,1 @@
-{"name":"matane-root","version":"1.0.0","private":true,"scripts":{"start":"node server/index.js"}}
+{"name":"matane-root","version":"1.0.1","private":true,"scripts":{"start":"node server/index.js","postinstall":"npm --prefix server install"}}
